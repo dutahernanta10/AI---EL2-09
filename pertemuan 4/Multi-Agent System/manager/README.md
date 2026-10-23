@@ -87,7 +87,7 @@ cd <AI---EL2-09>
 python gabungan.py
 ```
 
-Di sebagian sistem, perintahnya adalah `python3 sistem_multi_agent_gabungan.py`.
+Di sebagian sistem, perintahnya adalah `python3 gabungan.py`.
 
 **3. Pilih menu**
 
