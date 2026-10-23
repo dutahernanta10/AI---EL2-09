@@ -81,17 +81,17 @@ python --version
 **1. Unduh proyek**
 
 ```bash
-git clone https://github.com/<username>/<nama-repo>.git
-cd <nama-repo>
+git clone https://github.com/dutahernanta10/AI---EL2-09/
+cd <AI---EL2-09>
 ```
 
 **2. Jalankan program**
 
 ```bash
-python sistem_pencarian_gabungan.py
+python gabungan.py
 ```
 
-Di sebagian sistem, perintahnya adalah `python3 sistem_pencarian_gabungan.py`.
+Di sebagian sistem, perintahnya adalah `python3 gabungan.py`.
 
 **3. Pilih menu**
 
