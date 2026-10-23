@@ -82,7 +82,7 @@ python --version
 
 ```bash
 git clone https://github.com/dutahernanta10/AI---EL2-09/
-cd <AI---EL2-09>
+cd AI---EL2-09/"pertemuan 4/Search Algorithm/manager"
 ```
 
 **2. Jalankan program**
