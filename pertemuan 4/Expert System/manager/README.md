@@ -49,7 +49,7 @@ cd <AI---EL2-09>
 **2. Jalankan program**
 
 ```bash
-python sistem_pakar_gabungan.py
+python gabungan.py
 ```
 
 Di sebagian sistem, perintahnya adalah `python3 sistem_pakar_gabungan.py`.
