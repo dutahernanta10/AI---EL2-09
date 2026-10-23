@@ -42,8 +42,8 @@ python --version
 **1. Unduh proyek**
 
 ```bash
-git clone https://github.com/<username>/<nama-repo>.git
-cd <nama-repo>
+git clone https://github.com/dutahernanta10/AI---EL2-09/
+cd <AI---EL2-09>
 ```
 
 **2. Jalankan program**
